@@ -8,5 +8,6 @@ This project was created to use predictive analysis to determine the county of m
    ```bash
    git clone https://github.com/username/DayCare_Project.git
 
+## Dataset
 Download the dataset at https://www.dol.gov/agencies/wb/topics/featured-childcare
    
